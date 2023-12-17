@@ -51,7 +51,7 @@
       <td>Маркетинг-аналитик, Продуктовый аналитик</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Frossst61/portfolio_da/blob/main/Issledovatelskiy%20analiz/issl_analiz.ipynb"> 8. Проверка гипотез по увеличению выручки в интернет-магазине — оценить результты A/B теста</a>></td>
+      <td><a href="https://github.com/Frossst61/portfolio_da/blob/main/A-B%20test/a-b_test.ipynb"> 8. Проверка гипотез по увеличению выручки в интернет-магазине — оценить результты A/B теста</a></td>
       <td>Python, Pandas, Matplotlib, SciPy, A/B-тестирование, проврка статистических гипотез</td>
       <td>Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами</td>
       <td>Маркетинг-аналитик</td>
