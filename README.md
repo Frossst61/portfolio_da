@@ -33,7 +33,7 @@
       <td>Маркетинг-аналитик, Продуктовый аналитик, Data Analyst</td>
     </tr>
     <tr>
-      <td>Название проекта</td>
+      <td><a href="https://github.com/Frossst61/portfolio_da/blob/main/Issledovatelskiy%20analiz/issl_analiz.ipynb"> 5. Изучение закономерностей, определяющих успешность игр</a></td>
       <td>Навыки</td>
       <td>Задачи проекта</td>
       <td>Специализация</td>
