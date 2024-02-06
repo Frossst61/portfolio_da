@@ -15,7 +15,7 @@
       <td>Data Analyst, Маркетинг-аналитик, Аналитик (универсал)</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Frossst61/portfolio_da/blob/main/6-A-B test/a-b_test.ipynb"> 4. Проверка гипотез по увеличению выручки в интернет-магазине — оценить результты A/B теста </a></td>
+      <td><a href="https://github.com/Frossst61/portfolio_da/blob/main/2-A-B test/a-b_test.ipynb"> 4. Проверка гипотез по увеличению выручки в интернет-магазине — оценить результты A/B теста </a></td>
       <td>Python, Pandas, Matplotlib, SciPy, A/B-тестирование, проврка статистических гипотез</td>
       <td>Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами</td>
       <td>Маркетинг-аналитик</td>
@@ -27,7 +27,7 @@
       <td>Маркетинг-аналитик, Продуктовый аналитик</td>
     </tr>    
     <tr>
-      <td><a href="https://github.com/Frossst61/portfolio_da/blob/main/1-Prodaja_kvartir/prodaja_kvartir.ipynb">2. Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости</a></td>
+      <td><a href="https://github.com/Frossst61/portfolio_da/blob/main/4-Prodaja_kvartir/prodaja_kvartir.ipynb">2. Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости</a></td>
       <td>Python, Pandas, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных</td>
       <td>Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир</td>
       <td>Маркетинг-аналитик, Fraud-аналитик, Data Analyst</td>
