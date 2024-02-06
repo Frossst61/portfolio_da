@@ -9,7 +9,7 @@
       <th>Специализация</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/Frossst61/portfolio_da/blob/main/1-Viz_analysis_phyton/viz_analys_python(Moscow).ipynb)">1. Исследования рынка общепита в Москве для принятия решения об открытии нового заведения</a></td>
+      <td><a href="https://github.com/Frossst61/portfolio_da/blob/main/1-Viz_analysis_phyton/viz_analys_python(Moscow).ipynb">1. Исследования рынка общепита в Москве для принятия решения об открытии нового заведения</a></td>
       <td>Python, Pandas, Seaborn, Plotly, визуализация данных</td>
       <td>Исследование рынка общественного питания на основе открытых данных, подготовка презентации.</td>
       <td>Data Analyst, Маркетинг-аналитик, Аналитик (универсал)</td>
